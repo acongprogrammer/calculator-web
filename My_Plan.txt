@@ -1,0 +1,6 @@
+In this Repository I want to make web-based calculator 
+This my plan:
+1. I will make calculator with html
+2. I will add CSS in my web
+3. add Javascript
+4. add PHP for connect to database, so we can see what calculations we have done
